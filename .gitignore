@@ -1,5 +1,4 @@
-smithsonian-images/
-biodivlibrary-images/
+*-images/
 .ipynb_checkpoints
 .DS_Store
 *.swp
