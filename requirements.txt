@@ -1,0 +1,9 @@
+beautifulsoup4>=4.5.3
+flickr_api>=0.7.3
+matplotlib>=2.2.2
+numpy>=1.17.0
+requests>=2.11.1
+scikit-image>=0.15.0
+scipy>=1.1.0
+selenium>=3.14.0
+
