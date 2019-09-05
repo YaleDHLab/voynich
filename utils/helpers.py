@@ -14,6 +14,8 @@ def parse_pages():
   page_order = []
   d = defaultdict(lambda: defaultdict(list))
   path = os.path.join(__file__.replace('helpers.py', 'text16e6.evt'))
+  if path[-1] == 'c':
+    path = ''.join(path[:-1])
   with codecs.open(path, 'r', 'latin1') as f:
     f = f.read()
     for line_idx, line in enumerate(f.split('\n')):
