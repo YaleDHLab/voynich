@@ -1,5 +1,6 @@
 data
 images
+npy
 *-images/
 .ipynb_checkpoints
 .DS_Store
@@ -7,4 +8,5 @@ images
 *.pem
 *.pyc
 *.ann
-npy/*
+*.json
+
