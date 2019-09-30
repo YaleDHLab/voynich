@@ -6,3 +6,5 @@ images
 *.swp
 *.pem
 *.pyc
+*.ann
+npy/*
