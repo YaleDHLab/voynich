@@ -14,3 +14,4 @@ npy
 *.npy
 *.npz
 utils/voynichese/words/
+vectorize-voynich-words.ipynb
