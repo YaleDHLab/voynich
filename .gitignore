@@ -1,4 +1,5 @@
 data
+output
 images
 npy
 *-images/
@@ -10,3 +11,6 @@ npy
 *.ann
 *.json
 *.hdf5
+*.npy
+*.npz
+utils/voynichese/words/
