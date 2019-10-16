@@ -6,4 +6,4 @@ requests>=2.11.1
 scikit-image>=0.15.0
 scipy==1.1.0
 selenium>=3.14.0
-
+tensorflow==1.14.0
